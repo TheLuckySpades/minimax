@@ -1,0 +1,2 @@
+# minimax
+School Project
